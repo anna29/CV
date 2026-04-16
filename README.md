@@ -1,4 +1,4 @@
-# 👩‍💻 Anna Wieclaw
+# Anna Wieclaw
 
 📍 London, UK  
 📧 a.wieclaw@mdx.ac.uk  
@@ -60,7 +60,7 @@ Focused on transforming education through applied pedagogy and real-world learni
 
 ---
 
-## 🎓 Education
+## Education
 
 ### **MSc Data Science**  
 **Middlesex University** *(2023 – 2024)*
