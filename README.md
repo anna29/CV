@@ -1,6 +1,6 @@
 # Anna Wieclaw
 
-📍 London, UK  
+London, UK  
 📧 a.wieclaw@mdx.ac.uk  
 📞 +44 (0) 7961 282 506  
 🔗 [LinkedIn](https://linkedin.com/in/anna-wieclaw-b1423267)
